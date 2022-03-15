@@ -1,0 +1,2 @@
+# DailyBiteFrontend
+> The frontend app
